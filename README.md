@@ -6,6 +6,7 @@ Go and have a look at gitlab, you will surely find interesting projects
 
 
 📫 How to reach me:  
+E-Mail: contact@fabiankranewitter.com
 Webpage: https://fabiankranewitter.com  
 Twitter: https://twitter.com/fakranewitter  
 Linkedin: https://www.linkedin.com/in/fabiankranewitter  
