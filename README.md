@@ -10,5 +10,6 @@ E-Mail: contact@fabiankranewitter.com
 Webpage: https://fabiankranewitter.com  
 Twitter: https://twitter.com/fakranewitter  
 Linkedin: https://www.linkedin.com/in/fabiankranewitter  
+Youtube: https://www.youtube.com/fabiankranewitter
 
 Matrix: @fabiankranewitter:matrix.org
